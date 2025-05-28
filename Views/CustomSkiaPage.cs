@@ -15,7 +15,6 @@ using SkiaSharp;
 namespace AIAla.Views
 {
     
-    
     public class CustomSkiaPage : Control
     {
         private readonly GlyphRun _noSkia;
